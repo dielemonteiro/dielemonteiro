@@ -22,7 +22,7 @@ Please don't hesitate to reach out to me(📫 **dielemonteiro@hotmail.com**) to 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </a> </p>
 <a href="https://github.com/dielemonteiro/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dielemonteiro&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=dielemonteiro&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dielemonteiro&repo=convoychat" />
