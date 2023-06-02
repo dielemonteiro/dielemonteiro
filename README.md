@@ -21,4 +21,4 @@ Please don't hesitate to reach out to me(📫 **dielemonteiro@hotmail.com**) to 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </a> </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dielemonteiro)](https://github.com/dielemonteiro/github-readme-stats)
+![Diele's GitHub stats](https://github-readme-stats.vercel.app/api?username=dielemonteiro&show_icons=true&theme=radical)
