@@ -21,3 +21,4 @@ Please don't hesitate to reach out to me(📫 **dielemonteiro@hotmail.com**) to 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </a> </p>
+<p align="left">https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={dielemonteiro}</p>
