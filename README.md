@@ -25,5 +25,5 @@ Please don't hesitate to reach out to me(📫 **dielemonteiro@hotmail.com**) to 
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=dielemonteiro&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/dielemonteiro/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dielemonteiro&layout=compact)" />
 </a>
