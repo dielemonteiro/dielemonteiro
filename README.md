@@ -24,6 +24,6 @@ Please don't hesitate to reach out to me(📫 **dielemonteiro@hotmail.com**) to 
 <a href="https://github.com/dielemonteiro/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=dielemonteiro&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/dielemonteiro/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=dielemonteiro&repo=convoychat" />
+<a href="https://github.com/dielemonteiro/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)" />
 </a>
